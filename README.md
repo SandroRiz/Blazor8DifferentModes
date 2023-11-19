@@ -16,4 +16,3 @@ You can use compare tools (like WinMerge) to see the difference in program.cs an
 
 ![diff](https://github.com/SandroRiz/Blazor8DifferentModes/assets/7381657/4b2873eb-22c1-4485-a850-9b8dc36520a2)
 
-[Italian post on my Blog]([url](https://www.rizzetto.com/Blog/post/blazor-net-8-interactive-render-modes-tutti-i-templates-che-puo-generare-visual-studio-17-8)https://www.rizzetto.com/Blog/post/blazor-net-8-interactive-render-modes-tutti-i-templates-che-puo-generare-visual-studio-17-8)...
